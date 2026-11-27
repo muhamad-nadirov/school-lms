@@ -1,16 +1,16 @@
 <?php
 
-$host     = "localhost";      
-$username = "root";          
-$password = "";              
-$db       = "school_db"; 
-
-mysqli_report(MYSQLI_REPORT_OFF);
+//mysqli_report(MYSQLI_REPORT_OFF);
 
 $conn = mysqli_connect($host, $username, $password, $db);
 
-if (!$conn) {
-    die("Ошибка подключения к БД: " . mysqli_connect_error());
+require_once (__DIR__ . 'config.php');
+$conn = mysqli_connect($host, $user, $password, $db_name);
+
+if(!$conn) {
+    die("Ошибка: " . mysqli_conect_error());
 }
 
-mysqli_set_charset($conn, "utf8mb4");
+mysqli_set_charset($conn, "utf8mb4"); //это что б кириллица работала как надо
+
+?>
