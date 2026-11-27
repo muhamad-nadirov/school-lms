@@ -7,11 +7,11 @@
     <title>School LMS</title>
     <!-- CDN ссылка иконок бутстрап -->
     <!-- <link rel="stylesheet" href="https://jsdelivr.net"> -->
-    <!-- CDN ссылка иконок бутстрап -->
 
+    <!-- бутстрап иконки -->
+     <link href="/school-lms/assets/bootstrap/bootstrap-icons.min.css" rel="stylesheet">
     <!-- BEGIN PAGE LEVEL STYLES -->
     <link href="/school-lms/assets/tabler/dist/libs/jsvectormap/dist/jsvectormap.css" rel="stylesheet">
-    <!-- END PAGE LEVEL STYLES -->
 
     <!-- BEGIN PLUGINS STYLES -->
     <link href="/school-lms/assets/tabler/dist/css/tabler-flags.css" rel="stylesheet">
@@ -31,4 +31,4 @@
     </style>
     <!-- END CUSTOM FONT -->
   </head>
-  <body class="page">
+  <body class="page"> <!-- flag-country-tj  -->
