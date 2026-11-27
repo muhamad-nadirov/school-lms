@@ -3,7 +3,7 @@
 $host = "localhost";      
 $username = "root";          
 $password = "";              
-$db = "school_lms"; 
+$db = "learning_platform";
 
 mysqli_report(MYSQLI_REPORT_OFF);
 
