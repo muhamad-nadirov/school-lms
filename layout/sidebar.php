@@ -1,6 +1,6 @@
 <aside class="navbar navbar-vertical navbar-expand-lg" data-bs-theme="dark">
     <div class="container-fluid">
-        <!-- BEGIN NAVBAR TOGGLER -->
+      
         <button
         class="navbar-toggler"
         type="button"
@@ -12,12 +12,11 @@
         >
         <span class="navbar-toggler-icon"></span>
         </button>
-        <!-- END NAVBAR TOGGLER -->
-        <!-- Начало Логотипа School-LMS -->
+    
         <div class="navbar-brand navbar-brand-autodark">
             <a href="." aria-label="School-LMS">
                 <svg xmlns="http://w3.org" width="160" height="32" viewBox="0 0 340 68" class="navbar-brand-image">
-                <!-- Иконка: сквиркл с вырезанной академической шапочкой -->
+            
                 <path
                     d="M64.6 16.2C63 9.9 58.1 5 51.8 3.4 40 1.5 28 1.5 16.2 3.4 9.9 5 5 9.9 3.4 16.2 1.5 28 1.5 40 3.4 51.8 5 58.1 9.9 63 16.2 64.6c11.8 1.9 23.8 1.9 35.6 0C58.1 63 63 58.1 64.6 51.8c1.9-11.8 1.9-23.8 0-35.6zM34 19l21 9.5L34 38 13 28.5 34 19zm-12 16.5l12 5.5 12-5.5V43c0 3.5-5.4 6-12 6s-12-2.5-12-6v-7.5zm29.5-3.5h3v11.5h-3V32z"
                     fill-rule="evenodd"
