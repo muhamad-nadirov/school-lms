@@ -57,7 +57,7 @@
                         <a class="dropdown-item" href="https://youtu.be/iB7KYDfLmF8?si=exKk1vjhIBYvN2lr" target="_blank" rel="noopener">
                             <i class="bi bi-play-btn-fill"></i> Видео для релакса
                         </a>
-                        <a class="dropdown-item" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7STIGYy_TPyUcqAnGvP2w8kmFTbQFZPyqBRKkvmMr6g&s=10" target="_blank" rel="noopener">
+                        <a class="dropdown-item" href="#" target="_blank" rel="noopener">
                             <i class="bi bi-box2-heart"></i> Кое-что
                         </a>
                     </div>
